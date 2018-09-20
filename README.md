@@ -1,3 +1,5 @@
+# 2048
+
 Implement 2048 game in C++ using ncurses library. 
 
 HOW TO PLAY: 
